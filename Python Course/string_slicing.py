@@ -22,7 +22,7 @@ print(my_str[:])    # Hello world (start and end are the defaults, so it include
 my_str = 'Hello world'
 print(my_str[1:4]) # ell
 
-#sclicing doesnt change the original string
+#slicing doesnt change the original string
 print(my_str) # Hello world
 
 #theres also a step parameter, which can extract character at specific intervals. The syntax is: string[start:end:step]
