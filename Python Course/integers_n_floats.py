@@ -26,3 +26,7 @@ diff_ints = my_int_1 - my_int_2
 print('Integer Subtraction:', diff_ints) # Integer Subtraction: 44
 
 #how to perform multiplication with integers
+my_int_1 = 12
+my_int_2 = 4
+product_ints = my_int_1 * my_int_2
+print('Integer Multiplication:', product_ints)
